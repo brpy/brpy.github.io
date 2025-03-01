@@ -2,8 +2,8 @@
 title: "Interoperability between DuckDB and GeoPandas"
 layout: "post"
 date: 2025-03-01 13:30:00 +0530
-categories: convert-geopandas-to-duckdb
-permalink: /:categories
+categories: gis duckdb geopandas pandas
+permalink: /blog/convert-geopandas-to-duckdb
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
